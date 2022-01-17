@@ -9,6 +9,5 @@ Já com a aplicação funcionando, escreva na barra superior o nome do local o q
 
 
 Exemplos da aplicação:
-<img scr="./src/assets/exemplo_imagem_calor.png">
 
-<img scr="./src/assets/exemplo_imagem_frio.png">
+<img src="./src/assets/exemplo_imagem_calor.png" width="300">    <img src="./src/assets/exemplo_imagem_frio.png" width="300">
